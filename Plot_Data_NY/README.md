@@ -2,9 +2,7 @@
 
 This repository contains all code and datasets used for plotting the results of traffic flow models applied to New York City (NYC).
 
-\[
-\dot{u}_i(t) = \sum_{j=1}^{n} w_{ij} u_j(t) - \sum_{k=1}^{n} w_{ki} u_i(t) - a_i\, u_i(t) +  b_i,
-\]
+
 
 ## Repository Contents
 
