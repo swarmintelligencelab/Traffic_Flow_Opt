@@ -2,7 +2,7 @@
 
 This repository contains all code and datasets used for plotting the results of traffic flow models applied to New York City (NYC).
 
-
+![Equation](images/Model_Equation.png)
 
 ## Repository Contents
 
