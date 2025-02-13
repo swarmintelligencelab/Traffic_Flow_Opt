@@ -1,6 +1,6 @@
 # Traffic Flow and Optimization in NYC
 
-This repository contains code and datasets used for analyzing and optimizing traffic flow in New York City (NYC). The repository is divided into two subfolders, each focusing on different aspects of traffic modeling and analysis.
+This repository contains code and datasets to reproduce the results from the article "Advection Dynamics in Traffic Networks: Modeling, Analysis, and Optimization". It contains the codes of the examples and also codes for analyzing and optimizing traffic flow in New York City (NYC). The repository is divided into two subfolders, each focusing on different aspects of traffic modeling and analysis.
 
 ## Repository Structure
 
