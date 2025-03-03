@@ -1,4 +1,4 @@
-# Traffic Flow Models in NYC
+# Traffic Flow Model in NYC
 
 This repository contains all code and datasets used for plotting the results of traffic flow models applied to New York City (NYC).
 
